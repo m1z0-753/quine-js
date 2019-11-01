@@ -1,0 +1,1 @@
+(function(s){console.log(s.split('@'+'D').join('"').split('@'+'S').join(s));})("(function(s){console.log(s.split('@'+'D').join('@D').split('@'+'S').join(s));})(@D@S@D)");

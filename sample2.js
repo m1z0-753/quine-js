@@ -1,0 +1,1 @@
+eval(x = "y=String.fromCharCode(34); console.log(('eval(x = '+y+x+y+')'))")
